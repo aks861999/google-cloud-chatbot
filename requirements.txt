@@ -1,4 +1,4 @@
 streamlit==1.38.0
-google-cloud-aiplatform==1.68.0
+google-cloud-aiplatform==1.63.0
 google-cloud-bigquery==3.25.0
 vertexai==1.63.0
